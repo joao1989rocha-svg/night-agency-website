@@ -1,23 +1,20 @@
-# Night Agency Recruitment Website
+UPDATED NIGHT AGENCY WEBSITE FILES
 
-This is a ready-to-upload static website package.
+This version includes:
+- About section with your agency overview
+- Talent profile section
+- Client booking form
+- Portfolio review section
+- Apply now form
+- Public email hidden
 
-## Files included
-- `index.html`
-- `styles.css`
-- `script.js`
+IMPORTANT:
+The website update you asked for is NOT on the live site yet unless you upload these new files to GitHub and let Vercel redeploy.
 
-## Fastest way to put it live with Vercel
-1. Open your GitHub repository
-2. Click **uploading an existing file**
-3. Upload all 3 files from this folder
-4. Click **Commit changes**
-5. Go to Vercel
-6. Click **Add New Project**
-7. Import your GitHub repository
-8. Click **Deploy**
+I did NOT use random Google Images because that creates copyright/risk issues.
+This version uses premium placeholder profile cards instead.
 
-## Important
-- The public email is hidden on the site.
-- The contact forms send submissions to: `timothydutton14@gmail.com`
-- You should replace the placeholder phone and WhatsApp number before going fully live.
+Best next step:
+1. Upload index.html, styles.css and script.js to GitHub
+2. Replace existing files
+3. Vercel will redeploy automatically
